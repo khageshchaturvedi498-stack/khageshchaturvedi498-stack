@@ -52,7 +52,7 @@ I publish long-form articles on compliance, financial crime, and Web3 on Paragra
 
 - [What Almost Getting Scammed in DeFi Taught Me About Security](https://paragraph.com/@0xc8f22f7cab5f4b247519b5af731b983ef4eccfdf/what-almost-getting-scammed-in-defi-taught-me-about-security)
 - [What 19 Years in Banking Taught Me About Web3 Compliance](https://paragraph.com/@0xc8f22f7cab5f4b247519b5af731b983ef4eccfdf/what-19-years-in-banking-taught-me-about-web3-compliance)
-- [How Scammers Use Legitimate Companies as Bait — A Banker's Web3 Warning](https://paragraph.com/@0xc8f22f7cab5f4b247519b5af731b983ef4eccfdf)
+
 
 ---
 
