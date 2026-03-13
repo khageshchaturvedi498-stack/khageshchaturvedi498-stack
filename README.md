@@ -46,7 +46,6 @@ All content is based on real-world experience combined with current certificatio
 | Blockchain for Business Sustainability | Binance Academy | Web3/DeFi | ✅ Completed |
 | DeFi Deep Dive | Binance Academy | Web3/DeFi | ✅ Completed |
 | NFT Deep Dive | Binance Academy | Web3/DeFi | ✅ Completed |
-| Blockchain Analytics Certification | Raw Compliance Hub | Blockchain Analytics | 🔄 In Progress |
 | Mastering Web3 | University of Nicosia | Web3/DeFi | 🔄 In Progress |
 | Visualising Cases and Flows of Money | Basel Institute on Governance | AML/FinCrime | 📚 Enrolled |
 
