@@ -34,15 +34,21 @@ All content is based on real-world experience combined with current certificatio
 
 ## 📜 Certifications
 
-| Certification | Provider | Status |
-|---|---|---|
-| Introduction to Trade-Based Money Laundering | UNODC | ✅ Completed Mar 2026 |
-| Financial Crime & OSINT Investigation | Udemy | ✅ Completed 2026 |
-| Blockchain Deep Dive | Binance Academy | ✅ Completed |
-| BNB Chain Developer Programme | Binance Academy | ✅ Completed |
-| Blockchain for Business Sustainability | Binance Academy | ✅ Completed |
-| Blockchain Analytics Certification | Raw Compliance Hub | 🔄 In Progress |
-| Mastering Web3 | University of Nicosia | 🔄 In Progress |
+| Certification | Provider | Category | Status |
+|---|---|---|---|
+| Introduction to Trade-Based Money Laundering | UNODC | AML/FinCrime | ✅ Completed Mar 2026 |
+| Money Laundering & Financial Crimes — TBML | UNODC | AML/FinCrime | ✅ Completed Mar 2026 |
+| Operational Analysis of Suspicious Transaction Reports | Basel Institute on Governance | AML/FinCrime | ✅ Completed Mar 2026 |
+| Open-source Intelligence | Basel Institute on Governance | OSINT | ✅ Completed Mar 2026 |
+| Financial Crime & OSINT Investigation | Udemy | OSINT | ✅ Completed Mar 2026 |
+| Blockchain Deep Dive | Binance Academy | Web3/DeFi | ✅ Completed |
+| BNB Chain Developer Programme | Binance Academy | Web3/DeFi | ✅ Completed |
+| Blockchain for Business Sustainability | Binance Academy | Web3/DeFi | ✅ Completed |
+| DeFi Deep Dive | Binance Academy | Web3/DeFi | ✅ Completed |
+| NFT Deep Dive | Binance Academy | Web3/DeFi | ✅ Completed |
+| Blockchain Analytics Certification | Raw Compliance Hub | Blockchain Analytics | 🔄 In Progress |
+| Mastering Web3 | University of Nicosia | Web3/DeFi | 🔄 In Progress |
+| Visualising Cases and Flows of Money | Basel Institute on Governance | AML/FinCrime | 📚 Enrolled |
 
 ---
 
