@@ -20,15 +20,9 @@ I spent the better part of two decades inside India's largest banks — reviewin
 ## 📂 Repositories
 
 ```
-📁 mogaland-video-production     → AI avatar video workflow, production guide and QA checklist (HeyGen · ChatGPT · Copilot · Claude)
-📁 AML/                          → Anti-money laundering typologies, red flags, case studies
-📁 KYC/                          → KYC/EDD frameworks, checklists, policy templates
-📁 DeFi-Risk/                    → DeFi fraud patterns, rug pulls, bridge exploits
-📁 OSINT/                        → Open-source investigation techniques for financial crime
-📁 TBML/                         → Trade-based money laundering research and indicators
-📁 Web3-Security/                → Wallet safety, Discord scams, social engineering patterns
-📁 Blockchain-Analytics/         → On-chain tracing notes and tool comparisons
-```
+📁 mogaland-ai-content-pipeline  → AI content & video production pipeline (LLM · HeyGen · JSON)
+📁 mogaland-video-production     → AI avatar video workflow, production guide and QA checklist
+📁 DeFi-Risk-Compliance-Notes    → DeFi risk, blockchain compliance, KYC/AML and Web3 security research
 
 ---
 
