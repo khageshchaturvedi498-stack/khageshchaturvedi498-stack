@@ -20,7 +20,7 @@ I spent the better part of two decades inside India's largest banks — reviewin
 ## 📂 Repositories
 
 ```
-📁 mogaland-ai-content-pipeline  → AI content & video production pipeline (LLM · HeyGen · JSON)
+📁 mogaland-video-production     → AI avatar video workflow, production guide and QA checklist (HeyGen · ChatGPT · Copilot · Claude)
 📁 AML/                          → Anti-money laundering typologies, red flags, case studies
 📁 KYC/                          → KYC/EDD frameworks, checklists, policy templates
 📁 DeFi-Risk/                    → DeFi fraud patterns, rug pulls, bridge exploits
@@ -40,7 +40,7 @@ Built an AI-augmented content and video production pipeline for a global fintech
 
 - 🧠 **LLM prompt engineering** — generated 8+ financial literacy courses using Claude and ChatGPT, validated against Indian regulatory standards (RBI, PMLA, SEBI, ESI, PF)
 - 📊 **JSON quiz engineering** — 200+ questions conforming to exact TypeScript interface spec, deployed to live quiz editor at academy.mogaland.io
-- 🎬 **AI avatar video production** — designed full HeyGen pipeline for avatars Professor Money and Professor Maya across 4 courses (20+ videos)
+🎬 **AI avatar video production** — about 90 HeyGen avatar videos: ~50 for India (Professor Money and Professor Maya, ~1 minute each) and ~40 for Iraq (two newly created avatars). Visuals made with ChatGPT and Microsoft Copilot; editing with Claude. See [mogaland-video-production](https://github.com/khageshchaturvedi498-stack/mogaland-video-production).
 - 📋 **Course Build Standards** — authored 14-section platform-wide content specification framework
 
 🔗 [View repository →](https://github.com/khageshchaturvedi498-stack/mogaland-ai-content-pipeline)
