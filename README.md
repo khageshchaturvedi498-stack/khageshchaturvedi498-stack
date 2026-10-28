@@ -22,7 +22,7 @@ I spent the better part of two decades inside India's largest banks — reviewin
 ```
 📁 mogaland-ai-content-pipeline  → AI content & video production pipeline (LLM · HeyGen · JSON)
 📁 mogaland-video-production     → AI avatar video workflow, production guide and QA checklist
-📁 DeFi-Risk-Compliance-Notes    → DeFi risk, blockchain compliance, KYC/AML and Web3 security research
+📁 DeFi-Risk-Research    → DeFi risk, blockchain compliance, KYC/AML and Web3 security research
 
 ---
 
